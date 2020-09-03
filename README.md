@@ -1,5 +1,5 @@
 # BDA594-marianohndz
-This repository is for big data science projects to include analysis, data collection, filtering, GIS, machine learning, processing, text analysis, and visualization. Computational platforms, skills, and tools for conducting big data analytics with real world case studies and examples.
+This repository is for big data science projects to include analysis, data collection, filtering, GIS, machine learning, processing, text analysis, and visualization. Some other topics include computational platforms, skills, and tools for conducting big data analytics with real world case studies and examples.
 
 ## Mariano Hernandez
 
